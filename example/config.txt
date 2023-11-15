@@ -1,0 +1,2 @@
+Prefix plugins/LeCaR/example
+Plugin LeCaR inputfile parameters.txt outputfile output.txt
